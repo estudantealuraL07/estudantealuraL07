@@ -1,6 +1,12 @@
-## Hi there 👋
+## boas vindas ao meu perfil 👋 
+o meu nome é livia
+tenho curso de alura, scratch e pj5
 
-<!--
+![](https://media1.tenor.com/m/fKVUZ_vJH5cAAAAC/muggle-harry-potter.gif)
+
+meu curriculo
+https://drive.google.com/file/d/1C0I1CA_xDMqxm8B_zgOQRbEDjwQpVRMm/view?usp=sharing
+
 **estudantealuraL07/estudantealuraL07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
